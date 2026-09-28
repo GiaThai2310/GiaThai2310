@@ -1,6 +1,6 @@
 # Hi, I'm Thái 👋
 
-Software Engineering student at FPT University, currently an OJT participant at AWS First AI Cloud Journey (FCAJ). I focus on backend development with .NET and build web applications with ASP.NET Core, PostgreSQL, and Next.js.
+Software Engineering Student @ FPT University | Currently: OJT Participant @ AWS First AI Cloud Journey (FCAJ)
 
 [Email](mailto:thainhg.info@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hoang-gia-thai-nguyen) · [GitHub](https://github.com/GiaThai2310)
 
@@ -35,7 +35,9 @@ An academic team project for parking reservations and gate operations. I led the
 
 ## Currently learning
 
-Software architecture and backend engineering with .NET; AWS and cloud infrastructure through study and hands-on practice.
+- Backend engineering and software architecture.
+- AWS and cloud infrastructure.
+- CI/CD, deployment reliability, and production operations.
 
 </details>
 
@@ -70,6 +72,8 @@ Dự án học thuật theo nhóm về đặt chỗ và vận hành bãi đỗ x
 
 ## Đang học
 
-Kiến trúc phần mềm và kỹ thuật backend với .NET; AWS và hạ tầng đám mây thông qua học tập, thực hành.
+- Kỹ thuật phát triển backend và kiến trúc phần mềm.
+- AWS và hạ tầng đám mây.
+- CI/CD, độ tin cậy khi triển khai và vận hành production.
 
 </details>
